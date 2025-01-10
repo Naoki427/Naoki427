@@ -1,1 +1,3 @@
 [![nyoshimi's 42 stats](https://badge.mediaplus.ma/binary/nyoshimi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+## Skill
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nextjs,docker)](https://skillicons.dev)
